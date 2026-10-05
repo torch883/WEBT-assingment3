@@ -21,3 +21,5 @@ A website for a small coffee shop in Astana.
 
 ## Link
 Repository: https://github.com/torch883/WEBT-assingment3
+
+Live site: https://torch883.github.io/WEBT-assingment3/
